@@ -1,0 +1,6 @@
+openai
+python-dotenv
+gradio
+wandb
+gradio_multimodalchatbot
+llama-index
